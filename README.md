@@ -2,10 +2,10 @@ This project consists on creating a webpage similar to the material toy/game "Et
 
 Key learning outcomes:
 
-DOM manipulation and event handling in JavaScript.
+- DOM manipulation and event handling in JavaScript.
 
-Dynamic creation and styling of HTML elements with CSS and JS.
+- Dynamic creation and styling of HTML elements with CSS and JS.
 
-Implementing user interaction features such as hover effects and reset functionality.
+- Implementing user interaction features such as hover effects and reset functionality.
 
-Strengthening problem-solving and debugging skills through hands-on experimentation.
+- Strengthening problem-solving and debugging skills through hands-on experimentation.
